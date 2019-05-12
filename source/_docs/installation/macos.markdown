@@ -17,6 +17,13 @@ Open a terminal and install Home Assistant.
 
 ```bash
 $ pip3 install homeassistant
+$ hass --open-ui
 ```
 
+Running these commands will:
+* Install Home Assistant
+* Launch Home Assistant and serve the web interface on http://localhost:8123
+
 Check this [video](https://www.youtube.com/watch?v=hej6ipN86ls) for the installation on macOS.
+
+Keep in mind that changes to macOS and Home Assistant may cause your installation to appear different.
